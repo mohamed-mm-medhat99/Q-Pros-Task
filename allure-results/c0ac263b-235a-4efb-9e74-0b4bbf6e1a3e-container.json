@@ -1,0 +1,1 @@
+{"uuid":"c0ac263b-235a-4efb-9e74-0b4bbf6e1a3e","name":"TestCases.SignUpTests","children":["0fa2a731-8037-401a-b3db-6c092ee3a008"],"befores":[{"name":"BeforeClass","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1681492231612,"stop":1681492231613}],"afters":[],"start":1681492231579,"stop":1681492341388}

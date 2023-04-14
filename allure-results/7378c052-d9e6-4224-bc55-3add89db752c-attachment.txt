@@ -1,0 +1,22 @@
+
+################################################################################################################################################
+Starting Execution:	"2 out of 6" test cases in the current suite
+Test Method:		"TestCases.LoginTests.testloginWithUserNameAndPassword"
+################################################################################################################################################
+[ReportManager] Start login process with userName MohamedMedhat1432. @14-04-2023 19:10:51.0063 PM
+[ReportManager] step1: login to the system. @14-04-2023 19:10:51.0064 PM
+[ReportManager] Start navigating to signUp page @14-04-2023 19:10:51.0064 PM
+[ReportManager] File Action "CreateFile" successfully performed. With the following test data "Target Folder: "allure-results//screenshots/20230414-191029", Target File: "\1681492251575_testloginWithUserNameAndPassword.gif"". @14-04-2023 19:10:51.0689 PM
+[ReportManager] Click "Log in". @14-04-2023 19:10:52.0212 PM
+[ReportManager] Waiting for element to be present; elementLocator "By.xpath: //*[@class='modal-footer']//*[contains(text(), 'Log in')]", numberOfTries"1", stateOfPresence"true"... @14-04-2023 19:10:52.0213 PM
+[ReportManager] Wait for element to be present "waited for the element's state of presence to be (true). Element locator (By.xpath: //*[@class='modal-footer']//*[contains(text(), 'Log in')])" against "By.xpath: //*[@class='modal-footer']//*[contains(text(), 'Log in')]". @14-04-2023 19:10:53.0016 PM
+[ReportManager] Type "MohamedMedhat1432" into "By.xpath: //*[@id='loginusername']". @14-04-2023 19:10:53.0996 PM
+[ReportManager] Type "mohamed123" into "By.xpath: //*[@id='loginpassword']". @14-04-2023 19:10:54.0982 PM
+[ReportManager] Click "Log in". @14-04-2023 19:10:55.0932 PM
+[ReportManager] Get text "Welcome MohamedMedhat1432" from "Welcome MohamedMedhat1432". @14-04-2023 19:11:01.0643 PM
+[ReportManager] the message from system is: Welcome MohamedMedhat1432 @14-04-2023 19:11:01.0644 PM
+[ReportManager] the expected message is: Welcome MohamedMedhat1432 @14-04-2023 19:11:01.0645 PM
+[ReportManager] Login completed successfully @14-04-2023 19:11:01.0645 PM
+[ReportManager] Assertion Passed: "true" is equal to "true". @14-04-2023 19:11:02.0802 PM
+[ReportManager] Successfully created attachment "Screenshot - 1681492262247_testloginWithUserNameAndPassword_ValidateEquals_passed" @14-04-2023 19:11:02.0819 PM
+[ReportManager] Successfully created attachment "Animated Gif - testloginWithUserNameAndPassword" @14-04-2023 19:11:02.0824 PM

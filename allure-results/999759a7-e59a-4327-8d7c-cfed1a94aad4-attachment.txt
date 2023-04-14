@@ -1,0 +1,45 @@
+
+################################################################################################################################################
+Starting Execution:	"6 out of 6" test cases in the current suite
+Test Method:		"TestCases.PlaceOrderTests.testPlaceOrder"
+################################################################################################################################################
+[ReportManager] step1: open product details screen @14-04-2023 19:11:54.0862 PM
+[ReportManager] start clicking on Samsung galaxy s6. @14-04-2023 19:11:54.0863 PM
+[ReportManager] File Action "CreateFile" successfully performed. With the following test data "Target Folder: "allure-results//screenshots/20230414-191029", Target File: "\1681492315662_testPlaceOrder.gif"". @14-04-2023 19:11:55.0950 PM
+[ReportManager] Click "Samsung galaxy s6". @14-04-2023 19:12:09.0701 PM
+[ReportManager] step2: add product to cart @14-04-2023 19:12:09.0702 PM
+[ReportManager] start clicking on add to cart item @14-04-2023 19:12:09.0703 PM
+[ReportManager] Click "Add to cart". @14-04-2023 19:12:12.0172 PM
+[ReportManager] successfully clicked on add to cart item @14-04-2023 19:12:12.0173 PM
+[ReportManager] Alert is present @14-04-2023 19:12:13.0715 PM
+[ReportManager] Alert Text is: [Product added] @14-04-2023 19:12:13.0718 PM
+[ReportManager] Get alert text. @14-04-2023 19:12:13.0719 PM
+[ReportManager] item added to the cart @14-04-2023 19:12:13.0719 PM
+[ReportManager] Alert is present @14-04-2023 19:12:13.0722 PM
+[ReportManager] Accept alert. @14-04-2023 19:12:13.0726 PM
+[ReportManager] Assertion Passed: "true" is equal to "true". @14-04-2023 19:12:14.0389 PM
+[ReportManager] Successfully created attachment "Screenshot - 1681492334146_testPlaceOrder_ValidateEquals_passed" @14-04-2023 19:12:14.0393 PM
+[ReportManager] step3: open cart screen after adding a product to it @14-04-2023 19:12:14.0393 PM
+[ReportManager] open cart started @14-04-2023 19:12:14.0394 PM
+[ReportManager] Click "Cart". @14-04-2023 19:12:16.0814 PM
+[ReportManager] cart screen opened successfully @14-04-2023 19:12:16.0815 PM
+[ReportManager] Assertion Passed: "true" is equal to "true". @14-04-2023 19:12:17.0513 PM
+[ReportManager] Successfully created attachment "Screenshot - 1681492337227_testPlaceOrder_ValidateEquals_passed" @14-04-2023 19:12:17.0515 PM
+[ReportManager] step4: start placing order @14-04-2023 19:12:17.0516 PM
+[ReportManager] Start clicking on place order button @14-04-2023 19:12:17.0516 PM
+[ReportManager] Click "Place Order". @14-04-2023 19:12:18.0126 PM
+[ReportManager] clicked on place order button successfully @14-04-2023 19:12:18.0127 PM
+[ReportManager] Assertion Passed: "true" is equal to "true". @14-04-2023 19:12:18.0707 PM
+[ReportManager] Successfully created attachment "Screenshot - 1681492338494_testPlaceOrder_ValidateEquals_passed" @14-04-2023 19:12:18.0709 PM
+[ReportManager] step5: fill the important data and complete the order @14-04-2023 19:12:18.0709 PM
+[ReportManager] Start filling required Data of the order @14-04-2023 19:12:18.0710 PM
+[ReportManager] Type "mohamed" into "Total: Name:". @14-04-2023 19:12:19.0338 PM
+[ReportManager] name entered successfully @14-04-2023 19:12:19.0339 PM
+[ReportManager] Type "1259456712356548" into "Credit card:". @14-04-2023 19:12:19.0959 PM
+[ReportManager] card number entered successfully @14-04-2023 19:12:19.0960 PM
+[ReportManager] Click "Purchase". @14-04-2023 19:12:20.0496 PM
+[ReportManager] Get text "Thank you for your purchase!" from "Thank you for your purchase!". @14-04-2023 19:12:20.0878 PM
+[ReportManager] order placed successfully @14-04-2023 19:12:20.0879 PM
+[ReportManager] Assertion Passed: "true" is equal to "true". @14-04-2023 19:12:21.0365 PM
+[ReportManager] Successfully created attachment "Screenshot - 1681492341194_testPlaceOrder_ValidateEquals_passed" @14-04-2023 19:12:21.0366 PM
+[ReportManager] Successfully created attachment "Animated Gif - testPlaceOrder" @14-04-2023 19:12:21.0370 PM

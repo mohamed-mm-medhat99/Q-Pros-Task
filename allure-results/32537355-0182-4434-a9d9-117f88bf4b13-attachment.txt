@@ -1,0 +1,23 @@
+
+################################################################################################################################################
+Starting Execution:	"1 out of 6" test cases in the current suite
+Test Method:		"TestCases.SignUpTests.testcreateNewUser"
+################################################################################################################################################
+[ReportManager] Navigate to signUp screen @14-04-2023 19:10:39.0181 PM
+[ReportManager] Start navigating to signUp page @14-04-2023 19:10:39.0192 PM
+[ReportManager] File Action "CreateFile" successfully performed. With the following test data "Target Folder: "allure-results//screenshots/20230414-191029", Target File: "\1681492239841_testcreateNewUser.gif"". @14-04-2023 19:10:40.0016 PM
+[ReportManager] Click "Sign up". @14-04-2023 19:10:40.0545 PM
+[ReportManager] Waiting for element to be present; elementLocator "By.xpath: //*[@class='modal-footer']//*[contains(text(), 'Sign up')]", numberOfTries"1", stateOfPresence"true"... @14-04-2023 19:10:40.0553 PM
+[ReportManager] Wait for element to be present "waited for the element's state of presence to be (true). Element locator (By.xpath: //*[@class='modal-footer']//*[contains(text(), 'Sign up')])" against "By.xpath: //*[@class='modal-footer']//*[contains(text(), 'Sign up')]". @14-04-2023 19:10:41.0380 PM
+[ReportManager] Type "Mohamed-Medhat574" into "Username:". @14-04-2023 19:10:42.0503 PM
+[ReportManager] Type "mohamed123" into "Password:". @14-04-2023 19:10:43.0612 PM
+[ReportManager] Click "Sign up". @14-04-2023 19:10:44.0673 PM
+[ReportManager] Alert is present @14-04-2023 19:10:45.0717 PM
+[ReportManager] Alert Text is: [Sign up successful.] @14-04-2023 19:10:45.0723 PM
+[ReportManager] Get alert text. @14-04-2023 19:10:45.0724 PM
+[ReportManager] new user created successfully @14-04-2023 19:10:45.0725 PM
+[ReportManager] Alert is present @14-04-2023 19:10:45.0740 PM
+[ReportManager] Accept alert. @14-04-2023 19:10:45.0751 PM
+[ReportManager] Assertion Passed: "true" is equal to "true". @14-04-2023 19:10:47.0270 PM
+[ReportManager] Successfully created attachment "Screenshot - 1681492246609_testcreateNewUser_ValidateEquals_passed" @14-04-2023 19:10:47.0300 PM
+[ReportManager] Successfully created attachment "Animated Gif - testcreateNewUser" @14-04-2023 19:10:47.0307 PM

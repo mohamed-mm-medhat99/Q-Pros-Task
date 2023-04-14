@@ -1,0 +1,1 @@
+{"uuid":"2d536eeb-f2f1-453b-9f2b-1fbfc9651728","name":"TestCases.PlaceOrderTests","children":["77b0b5a9-427e-4ec6-99bc-e1c609d2d952"],"befores":[{"name":"BeforeClass","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1681492308832,"stop":1681492308833}],"afters":[],"start":1681492231579,"stop":1681492341388}

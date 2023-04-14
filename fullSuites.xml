@@ -1,0 +1,58 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Full-Suite">
+	<test name="All TestCases">
+		<classes>
+
+			<class name="TestCases.SignUpTests">
+				<methods>
+					<include name="testcreateNewUser">
+					</include>
+				</methods>
+			</class>
+
+
+			<class name="TestCases.LoginTests">
+				<methods>
+					<include name="testloginWithUserNameAndPassword">
+					</include>
+				</methods>
+			</class>
+
+			<class name="TestCases.HomeTests">
+				<methods>
+					<include name="testCheckthelistOfCategories">
+					</include>
+				</methods>
+			</class>
+
+			<class name="TestCases.productDetailsTests">
+				<methods>
+					<include name="testaddItemToCart">
+					</include>
+				</methods>
+			</class>
+
+			<class name="TestCases.CartTests">
+				<methods>
+					<include name="deleteItemFromCart">
+					</include>
+				</methods>
+			</class>
+
+			<class name="TestCases.productDetailsTests">
+				<methods>
+					<include name="testaddItemToCart">
+					</include>
+				</methods>
+			</class>
+
+			<class name="TestCases.PlaceOrderTests">
+				<methods>
+					<include name="testPlaceOrder">
+					</include>
+				</methods>
+			</class>
+
+		</classes>
+	</test> <!-- Test -->
+</suite> <!-- Suite -->

@@ -1,0 +1,10 @@
+[ReportManager] File Action "DoesFileExist" successfully performed. With the following test data "File Path: "target/downloadedFiles/"". @14-04-2023 19:10:31.0642 PM
+[ReportManager] File Action "GetAbsolutePath" successfully performed. With the following test data "Relative Folder Path: "src/test/resources/testDataFiles/target/downloadedFiles/"". @14-04-2023 19:10:31.0643 PM
+[ReportManager] Attempting to run locally on: "Windows-64 | Google chrome". @14-04-2023 19:10:31.0714 PM
+[ReportManager] Identifying OS/Driver combination and selecting the correct driver version automatically. Please note that if a new driver executable will be downloaded it may take some time... @14-04-2023 19:10:31.0718 PM
+[ReportManager] Successfully Opened Google chrome. @14-04-2023 19:10:36.0147 PM
+[ReportManager] Target URL: "https://www.demoblaze.com/" @14-04-2023 19:10:36.0157 PM
+[ReportManager] Initial URL: "data:," @14-04-2023 19:10:36.0190 PM
+[ReportManager] File Action "CreateFile" successfully performed. With the following test data "Target Folder: "allure-results//screenshots/20230414-191029", Target File: "\1681492238113_BeforeMethod.gif"". @14-04-2023 19:10:38.0484 PM
+[ReportManager] Navigate to url "https://www.demoblaze.com/". @14-04-2023 19:10:38.0992 PM
+[ReportManager] Successfully created attachment "Animated Gif - BeforeMethod" @14-04-2023 19:10:39.0113 PM

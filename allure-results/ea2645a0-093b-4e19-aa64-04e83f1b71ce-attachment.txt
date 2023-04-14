@@ -1,0 +1,22 @@
+
+################################################################################################################################################
+Starting Execution:	"4 out of 6" test cases in the current suite
+Test Method:		"TestCases.productDetailsTests.testaddItemToCart"
+################################################################################################################################################
+[ReportManager] step1: open the product details page @14-04-2023 19:11:16.0722 PM
+[ReportManager] start clicking on Samsung galaxy s6. @14-04-2023 19:11:16.0723 PM
+[ReportManager] File Action "CreateFile" successfully performed. With the following test data "Target Folder: "allure-results//screenshots/20230414-191029", Target File: "\1681492277252_testaddItemToCart.gif"". @14-04-2023 19:11:17.0367 PM
+[ReportManager] Click "Samsung galaxy s6". @14-04-2023 19:11:18.0479 PM
+[ReportManager] step2: add the product to cart @14-04-2023 19:11:18.0479 PM
+[ReportManager] start clicking on add to cart item @14-04-2023 19:11:18.0480 PM
+[ReportManager] Click "Add to cart". @14-04-2023 19:11:19.0702 PM
+[ReportManager] successfully clicked on add to cart item @14-04-2023 19:11:19.0703 PM
+[ReportManager] Alert is present @14-04-2023 19:11:20.0930 PM
+[ReportManager] Alert Text is: [Product added] @14-04-2023 19:11:20.0934 PM
+[ReportManager] Get alert text. @14-04-2023 19:11:20.0935 PM
+[ReportManager] item added to the cart @14-04-2023 19:11:20.0936 PM
+[ReportManager] Alert is present @14-04-2023 19:11:20.0939 PM
+[ReportManager] Accept alert. @14-04-2023 19:11:20.0946 PM
+[ReportManager] Assertion Passed: "true" is equal to "true". @14-04-2023 19:11:21.0799 PM
+[ReportManager] Successfully created attachment "Screenshot - 1681492281451_testaddItemToCart_ValidateEquals_passed" @14-04-2023 19:11:21.0803 PM
+[ReportManager] Successfully created attachment "Animated Gif - testaddItemToCart" @14-04-2023 19:11:21.0805 PM

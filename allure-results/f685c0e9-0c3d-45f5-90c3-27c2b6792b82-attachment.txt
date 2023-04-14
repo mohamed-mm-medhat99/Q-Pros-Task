@@ -1,0 +1,13 @@
+
+################################################################################################################################################
+Starting Execution:	"3 out of 6" test cases in the current suite
+Test Method:		"TestCases.HomeTests.testCheckthelistOfCategories"
+################################################################################################################################################
+[ReportManager] step1: select a category and validate that it has items @14-04-2023 19:11:06.0256 PM
+[ReportManager] File Action "CreateFile" successfully performed. With the following test data "Target Folder: "allure-results//screenshots/20230414-191029", Target File: "\1681492266772_testCheckthelistOfCategories.gif"". @14-04-2023 19:11:06.0887 PM
+[ReportManager] Click "Monitors". @14-04-2023 19:11:07.0420 PM
+[ReportManager] total number returned from system is 2. @14-04-2023 19:11:12.0467 PM
+[ReportManager] the total number of Monitors are 2 . @14-04-2023 19:11:12.0467 PM
+[ReportManager] Assertion Passed: "true" is equal to "true". @14-04-2023 19:11:13.0453 PM
+[ReportManager] Successfully created attachment "Screenshot - 1681492273096_testCheckthelistOfCategories_ValidateEquals_passed" @14-04-2023 19:11:13.0457 PM
+[ReportManager] Successfully created attachment "Animated Gif - testCheckthelistOfCategories" @14-04-2023 19:11:13.0459 PM
